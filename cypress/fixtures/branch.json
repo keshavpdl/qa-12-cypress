@@ -1,0 +1,10 @@
+{
+  "namePrefix": "QA Automation Branch",
+  "address": "Baneshwor, Kathmandu, Nepal",
+  "updatedAddress": "Pulchowk, Lalitpur, Nepal",
+  "admin": {
+    "firstName": "Automation",
+    "lastName": "Tester",
+    "password": "Test@12345"
+  }
+}
